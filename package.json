@@ -1,6 +1,6 @@
 {
-  "name": "to-words",
-  "version": "5.0.0",
+  "name": "@vkmpintellect/to-words",
+  "version": "5.0.1",
   "description": "Converts numbers (including decimal points) into words & currency.",
   "keywords": [
     "to words",
