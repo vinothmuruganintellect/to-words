@@ -1,6 +1,6 @@
 {
   "name": "to-words",
-  "version": "4.4.0",
+  "version": "5.0.0",
   "description": "Converts numbers (including decimal points) into words & currency.",
   "keywords": [
     "to words",
@@ -53,6 +53,7 @@
     "@typescript-eslint/eslint-plugin": "^8.26.1",
     "@typescript-eslint/parser": "^8.26.1",
     "@vitest/coverage-v8": "^3.0.8",
+    "bignumber.js": "^9.1.2",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^9.22.0",
     "eslint-config-prettier": "^10.1.1",
